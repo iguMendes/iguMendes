@@ -1,9 +1,9 @@
 ### Olá mundo, eu sou Igor Andrade Mendes!!
 
-- atualmente estou à procura na área de desenvolvimento front-end
-- graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela ESTÁCIO
-- finalizando meu curso de front-end pela UDEMY ACADEMY. Veja meus projetos!!.
-- abaixo estão minhas competências mais fortes e minhas redes sociais.
+- Atualmente estou à procura na área de desenvolvimento front-end;
+- Graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela ESTÁCIO;
+- Finalizando meu curso de front-end pela UDEMY ACADEMY. Veja meus projetos;
+- Abaixo estão minhas competências mais fortes e minhas redes sociais.
 
 
 <div style="display: inline_block"><br>
