@@ -2,7 +2,7 @@
 
 - Atualmente estou à procura na área de desenvolvimento front-end;
 - Graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela ESTÁCIO;
-- Finalizando meu curso de front-end pela UDEMY ACADEMY. Veja meus projetos;
+- Estudando React.js com a Udemy Academy
 - Abaixo estão minhas competências mais fortes e minhas redes sociais.
 
 
