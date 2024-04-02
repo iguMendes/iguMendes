@@ -1,6 +1,6 @@
 ### Olá mundo, eu sou Igor Andrade Mendes!!
 
-- Atualmente estou à procura na área de desenvolvimento front-end;
+- Atualmente procurando meu primeiro cargo como desenvolvedor!;
 - Graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela ESTÁCIO;
 - Estudando React.js com a Udemy Academy
 - Abaixo estão minhas competências mais fortes e minhas redes sociais.
