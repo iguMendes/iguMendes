@@ -2,7 +2,7 @@
 
 - Atualmente procurando meu primeiro cargo como desenvolvedor!;
 - Graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela ESTÁCIO;
-- Estudando React.js com a Udemy Academy
+- - sempre procurando melhorar como pessoa e como profissional!
 - Abaixo estão minhas competências mais fortes e minhas redes sociais.
 
 
