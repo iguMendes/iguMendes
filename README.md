@@ -7,9 +7,8 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Freact-1&psig=AOvVaw3dnNElRp82icwmMVUYCfnC&ust=1733266431951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDNkeKWiooDFQAAAAAdAAAAABAE)">
-  
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/react-plain.svg">
 </div>
 
 
