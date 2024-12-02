@@ -8,9 +8,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Freact-1&psig=AOvVaw3dnNElRp82icwmMVUYCfnC&ust=1733266431951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDNkeKWiooDFQAAAAAdAAAAABAE)">
+  
 </div>
+
 
 <div style="display: inline_block"><br> 
  <a href="https://www.linkedin.com/in/www.linkedin.com/in/igor-mendes-5382ba226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
