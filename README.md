@@ -1,6 +1,6 @@
 ### Olá mundo, eu sou Igor Andrade Mendes!!
 
-- Atualmente procurando meu primeiro cargo como desenvolvedor!;
+- Atualmente trabalhando e se auto aperfeiçoando;
 - Graduando em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela ESTÁCIO;
 - sempre procurando melhorar como pessoa e como profissional!
 - Abaixo estão minhas competências mais fortes e minhas redes sociais.
